@@ -1,6 +1,0 @@
-﻿  laba8.1.cpp
-C:\Users\furno\source\repos\laba8.1\laba8.1.cpp(20,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\furno\source\repos\laba8.1\laba8.1.cpp(20,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\furno\source\repos\laba8.1\laba8.1.cpp(21,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\furno\source\repos\laba8.1\laba8.1.cpp(21,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-  laba8.1.vcxproj -> C:\Users\furno\source\repos\laba8.1\Debug\laba8.1.exe
